@@ -47,7 +47,7 @@ export const Badge = (props: Props) => {
       Protected By
       <a
         ref={liteBadge}
-        href={'https://gpnoctua.com'}
+        href={'https://gonoctua.com'}
         target="_blank"
         rel="noopener noreferrer"
         class="lite-badge"
