@@ -44,7 +44,7 @@ export const Badge = (props: Props) => {
         'background-color': props.badgeBackgroundColor ?? '#ffffff',
       }}
     >
-      Protected By
+      Powered By
       <a
         ref={liteBadge}
         href={'https://gonoctua.com'}
